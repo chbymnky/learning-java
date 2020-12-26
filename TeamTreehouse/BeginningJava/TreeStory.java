@@ -21,8 +21,9 @@ public class TreeStory {
     String nameAdjective = console.readLine("Enter an adjective:  ");
     String nameNoun = console.readLine("Enter a noun:  ");
     String adverb = console.readLine("Enter an adverb: ");
-    String verbing = console.readLine("Enter a verb ending in (ing):  ");
+    String verbing = console.readLine("Enter a verb ending in -ing:  ");
 
+    console.printf("The Tree Story:\n------------------\n");
     console.printf("%s is a %s %s. They are always %s %s.\n", yourName, nameAdjective, nameNoun, adverb, verbing);
   }
 
