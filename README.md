@@ -8,6 +8,7 @@ This repo is for tracking progression for learning Java. Primary learning resour
 
 - [Beginning Java](https://teamtreehouse.com/tracks/beginning-java), 10 hours
 - [Java Web Development](https://teamtreehouse.com/tracks/java-web-development), 36 hours
+- [Second GitHub Account](https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574)
 
 ## Team Treehouse Progress
 
@@ -30,4 +31,3 @@ This repo is for tracking progression for learning Java. Primary learning resour
 ## Final Full Stack Java Application
 
 *TODO: Create Application Requirements*
-
